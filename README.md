@@ -12,7 +12,9 @@
 </h4>
 
 ---
+<p align="center">
 <img align="center" src="https://i.pinimg.com/736x/f6/61/c3/f661c394124b4ed6e4ebd47ddf6ac557.jpg" alt="sk3mi"/>
+  <p/>
 <br>
 <h3 align="center">🚀 About Me</h3>  
 
